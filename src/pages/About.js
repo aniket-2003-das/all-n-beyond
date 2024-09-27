@@ -9,74 +9,74 @@ const About = () => {
     {
       name: "Aniket Das",
       title: "Club President",
-      description: "Oversees strategic direction, ensures successful execution of coding projects, and represents the community in institutional and external engagements.",
+      description: "Oversees strategic direction, ensures successful execution of coding projects, and represents the community in external engagements.",
       imageUrl: "images/Aniket.png"
     },
     {
-      name: "Ansh Saxsena",
-      title: "Vice President",
+      name: "Anushka Gora",
+      title: "Club Secretary",
       description: "Assists in club duties, manages day-to-day operations, and ensures collaboration between teams.",
-      imageUrl: "images/Aniket.png"
+      imageUrl: "images/Anushka.png"
     },
     {
-      name: "Jane Doe",
-      title: "General Secretary",
+      name: "Aamna Jain",
+      title: "Club Manager",
       description: "Maintains project documentation, records meeting outcomes, and handles internal and external communications.",
-      imageUrl: "images/Aniket.png"
+      imageUrl: "images/Aamna.png"
     },
     {
-      name: "Emily Smith",
-      title: "Treasurer",
-      description: "Manages budget for devlopment tools, resources, and events, ensuring financial sustainability of the club's technical initiatives.",
-      imageUrl: "images/Aniket.png"
-    },
-    {
-      name: "Abhishek Rawat",
+      name: "Abhishek Singh Rawat",
       title: "Technical Lead",
       description: "Provides high-level technical direction, oversees all development projects, and ensures the adoption of best coding practices across teams.",
       imageUrl: "images/Abhishek.png"
     },
     {
-      name: "Ravi Ranjan",
-      title: "Backend Lead",
-      description: "Architects and develops server-side solutions, APIs, and database systems to ensure scalability in projects.",
-      imageUrl: "images/Aniket.png"
+      name: "Shreya Sanjay Pawale",
+      title: "Club Treasurer",
+      description: "Manages budget for devlopment tools, resources, and events, ensuring financial sustainability of the club's technical initiatives.",
+      imageUrl: "images/Shreya.png"
     },
     {
       name: "Prem Singh",
+      title: "Backend Lead",
+      description: "Architects and develops server-side solutions, APIs, and database systems to ensure scalability in projects.",
+      imageUrl: "images/Prem.png"
+    },
+    {
+      name: "Chaitanya Patil",
       title: "Frontend Lead",
       description: "Oversees the design and implementation of applications, ensuring a responsive UI/UX experience.",
-      imageUrl: "images/Prem.png"
+      imageUrl: "images/Patil.png"
     },
     {
       name: "Aryan Tyagi",
       title: "AIML Lead",
       description: "Leads machine learning and AI-driven projects, responsible for model development and training.",
-      imageUrl: "images/Aryan.jpg"
+      imageUrl: "images/Aryan.png"
     },
     {
-      name: "Prem Singh",
+      name: "Ashish Kumar",
       title: "DevOps Lead",
       description: "Manages CI/CD pipelines, automates deployments, and ensures robust infrastructure for code collaboration.",
-      imageUrl: "images/Aniket.png"
+      imageUrl: "images/Ashish.png"
     },
     {
-      name: "Sarah Johnson",
+      name: "Indrakshi Mandal",
       title: "Event Coordinator",
       description: "Organizes workshops, internal hackathons, and meetups, fostering practical skill development among members.",
-      imageUrl: "images/Aniket.png"
+      imageUrl: "images/Indrakshi.png"
     },
     {
-      name: "Lisa Brown",
+      name: "Palak Mangal",
       title: "Social Media Manager",
       description: "Manages the club's online presence by creating content and engaging with the community on social media.",
-      imageUrl: "images/Aniket.png"
+      imageUrl: "images/Pallak.png"
     },
     {
-      name: "Emma Wilson",
+      name: "Chitrakavi Sai Chandana",
       title: "Community Manager",
       description: "Facilitates communication within club, ensures member engagement and manages onboarding processes for new members.",
-      imageUrl: "images/Aniket.png"
+      imageUrl: "images/Sai.png"
     }
   ];
 

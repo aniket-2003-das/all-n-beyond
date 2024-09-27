@@ -13,27 +13,27 @@ const Blog = () => {
     },
     {
       title: "7 Best VS Code Extensions for Faster Development 🚀",
-      author: "Lisa, Social Media Manager @anb",
+      author: "Social Media Manager @anb",
       blog: "As we head 2025, staying ahead in development productivity means leveraging the best tools. Here are some top VS Code extensions that not only make coding faster but also show why they're essential for the future of development.",
     },
     {
-      title: "Natural Language Processing Techniques",
-      author: "Emma, Community Manager @anb",
-      blog: "Explore the latest techniques in NLP and how they're revolutionizing human-computer interaction.",
+      title: "Apply for $300 AWS Credits today ",
+      author: "Amazon Web Services",
+      blog: "As AWS is  dedicated to help users find the right products and services to help them grow and scale. Students have been invited to apply for $300 in AWS credits.",
     },
     {
       title: "Computer Vision: Seeing the World Through AI",
-      author: "Lisa, Social Media Manager @anb",
+      author: "Social Media Manager @anb",
       blog: "Learn how AI is enabling computers to interpret and understand visual information.",
     },
     {
       title: "Reinforcement Learning in Game AI",
-      author: "Emma, Community Manager @anb",
+      author: "Community Manager @anb",
       blog: "Discover how reinforcement learning is creating unbeatable AI opponents in complex games.",
     },
     {
       title: "Ethics in AI: Navigating the Challenges",
-      author: "Emma, Community Manager @anb",
+      author: "Community Manager @anb",
       blog: "Explore the ethical considerations and challenges in developing and deploying AI systems.",
     }
   ];
