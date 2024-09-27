@@ -7,7 +7,7 @@ import BlogCard from '../components/BlogCard';
 const Blog = () => {
   const blogPosts = [
     {
-      title: "Blackbox Premium Student Offer",
+      title: "Blackbox Premium Student Offer 💡",
       author: "BlackBox AI",
       blog: "Dear Fellow Students, I am excited to announce the launch of the BLACKBOX AI Program at VIT-Bhopal. As part of this initiative, we aim to introduce the incredible potential of AI and machine learning to our university community."
     },
@@ -17,24 +17,24 @@ const Blog = () => {
       blog: "As we head 2025, staying ahead in development productivity means leveraging the best tools. Here are some top VS Code extensions that not only make coding faster but also show why they're essential for the future of development.",
     },
     {
-      title: "Apply for $300 AWS Credits today ",
+      title: "Apply for $300 AWS Credits today⚡",
       author: "Amazon Web Services",
       blog: "As AWS is  dedicated to help users find the right products and services to help them grow and scale. Students have been invited to apply for $300 in AWS credits.",
     },
     {
-      title: "Computer Vision: Seeing the World Through AI",
+      title: "7 Open-Source Libraries to Boost Your CV 🚀",
       author: "Social Media Manager @anb",
-      blog: "Learn how AI is enabling computers to interpret and understand visual information.",
+      blog: "Mastering niche technologies and building projects around them can make you stand out. Here are 7 open-source libraries to help you do just that.",
     },
     {
-      title: "Reinforcement Learning in Game AI",
+      title: "AI and Sustainability: The Hidden Costs of Innovation 🌐",
       author: "Community Manager @anb",
-      blog: "Discover how reinforcement learning is creating unbeatable AI opponents in complex games.",
+      blog: "CHATGPT-4 model consumes enough water to quench your thirst for a day to generate 100 words.",
     },
     {
-      title: "Ethics in AI: Navigating the Challenges",
+      title: "Top 10 ATS Resume Builders to Optimize Your Job Search in 2024 🌱",
       author: "Community Manager @anb",
-      blog: "Explore the ethical considerations and challenges in developing and deploying AI systems.",
+      blog: "As job competition continues to rise, having an ATS-friendly resume is essential to ensure it gets seen by recruiters. Below are the top 10 resume builders designed to pass through Applicant Tracking Systems (ATS) effortlessly.",
     }
   ];
 
